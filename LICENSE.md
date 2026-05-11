@@ -1,4 +1,4 @@
-# 
+# Enhance 1Password for macOS with rare 1Password for macOS Validator | secure-storage + firewall-protection, the #1 validator. Includes secure-storage and firewall-protection for a
 
 
 
